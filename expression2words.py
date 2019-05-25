@@ -1,5 +1,5 @@
 #!/usr/bin/python3.6
-from expression_to_words.expression_ import Expression
+from expression_to_words.expression import Expression
 
 if __name__ == "__main__":
     import argparse

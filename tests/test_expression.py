@@ -1,5 +1,5 @@
 import pytest
-from expression_to_words.expression_ import Expression
+from expression_to_words.expression import Expression
 
 expressions = [
     "- 14 - 15 = - 29",
