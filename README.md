@@ -4,6 +4,11 @@ $ ./expression2words.py
 Enter expression: 4 + 3 + 1 = 2 + 3
 Result: four PLUS three PLUS one EQUALS two PLUS three
 ```
+```
+$ ./expression2words.py 
+Enter expression: 2 *23 = 3 /3
+Result: two MULTIPLY BY twenty three EQUALS three DIVIDED INTO three
+```
 Equal sign is optional.
 ```
 $ ./expression2words.py
